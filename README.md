@@ -1,1 +1,1 @@
-# interactive-quiz
+An Interactive Quiz App is a web-based application developed using HTML, CSS, and JavaScript that allows users to answer multiple-choice questions within a fixed time limit. Each question is displayed with a timer to increase engagement and challenge the user.At the end of the quiz, it displays the final score, showing the user’s performance.
